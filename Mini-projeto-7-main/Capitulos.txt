@@ -1,0 +1,79 @@
+CAPITULO
+NOME
+Capitulo 1
+TEXTO 
+Chapeuzinho! Chapeuzinho!, desça as escadas e leve esses doces para a sua vózinha \n - Cheguei mãe, posso pegar um dos doces? \n - Não! pegue esssa cesta e leve para ela, cuidado ao sair, e vá pelo caminho seguro \n\n Ao sair de casa você se depara com dois caminhos, o caminho seguro demora um pouco mais, contudo o caminho perigoso é mais rápido, qual seguir:
+PERSONAGEM
+Chapeuzinho 
+VARIAÇÃO DE ENERGIA
+0
+CAPITULO
+NOME
+Capitulo 2
+TEXTO
+Você foi pelo caminho seguro! Você andou a tarde toda, e chegou cansada na casa de sua avó\n Ao chegar, você foi recebida com um beijo e um abraço quente de sua avó\nVocê teve um final feliz!
+PERSONAGEM
+Chapeuzinho
+VARIAÇÃO DE ENERGIA
+-75
+
+CAPITULO 
+NOME
+Capitulo 3
+TEXTO
+Ao caminhar na floresta densa, você encontra com um lobo enorme \nvocê se esconde e pensa em no que fazer, ao olhar pro lado você uma arvoré, para onde ir?
+PERSONAGEM
+Ao caminhar na floresta densa, você encontra com um lobo enorme \nvocê se esconde e pensa em no que fazer, ao olhar pro lado você uma arvoré, para onde ir?
+Chapeuzinho 
+VARIAÇÃO DE ENERGIA
+-50
+
+CAPITULO
+NOME
+Capitulo 4
+TEXTO
+Você tenta correr mais rápido que o lobo, mas ele te alcança e te morde \nSua família espera por você até hoje
+Chapeuzinho
+VARIAÇÃO DE ENERGIA
+-50
+
+CAPITULO
+NOME
+Capitulo 5
+TEXTO
+Você foge por cima das arvorés e consegue sair da floresta, contudo você chega toda suja e sua vó reclama com você \nVocê não conta a ela por onde foi, e continua com sua vida
+Chapeuzinho
+VARIAÇÃO DE ENERGIA
++50
+
+ESCOLHA 
+CAPITULO DE ORIGEM
+Capitulo 1
+TEXTO
+Caminho seguro
+CAPITULO DE DESTINO 
+Capitulo 2
+
+ESCOLHA 
+CAPITULO DE ORIGEM
+Capitulo 1
+TEXTO
+Caminho perigoso
+CAPITULO DE DESTINO
+Capitulo 3
+
+ESCOLHA
+CAPITULO DE ORIGEM 
+TEXTO
+Capitulo 3
+CAPITULO DE DESTINO 
+Capitulo 4
+
+ESCOLHA 
+CAPITULO DE ORIGEM 
+TEXTO
+Capitulo 3
+CAPITULO DE DESTINO
+Capitulo 5
+ 
+ 

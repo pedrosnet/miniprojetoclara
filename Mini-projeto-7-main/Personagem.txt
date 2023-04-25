@@ -1,0 +1,6 @@
+PERSONAGEM
+NOME
+Chapeuzinho 
+ENERGIA
+100
+
